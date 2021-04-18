@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Gyu young Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "답을 줄수있는 개발자가 되고싶다."
   location         : "Seoul"
   email            : "apateonos@gmail.com"
   links:
